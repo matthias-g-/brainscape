@@ -1,3 +1,3 @@
-include sys
-include numba
-include nibabel
+import sys
+import numba
+import nibabel
